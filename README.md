@@ -1,12 +1,17 @@
-# One Letter for Your Day
+# puan-letter-01
 
-Entry for make.fun mission `u-puan-one-letter-for-your-day-e54e9c36`
-("One Letter for Your Day", $5 pool, top 3 paid).
+[![make.fun · u-puan-one-letter-for-your-day-e54e9c36](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/syachrielsd/puan-letter-01/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/syachrielsd/puan-letter-01/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
-The program writes exactly one character — the letter **U** — to
-`/output/entry.txt`. The hidden word behind the letter is **unhinged**:
-the day came off its hinges. See `NOTES.md` for the full candidate
-screening and the per-criterion justification.
+Entry for make.fun's "One Letter for Your Day" bounty — a program that writes the single letter U (unhinged) to /output/entry.txt.
 
-Run: `MAKEFUN_OUTPUT_DIR=<dir> node main.ts` (Node 22+, stdlib only).
-Output is exactly 1 byte, `U`, with no trailing newline.
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=<dir> node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=72mse6nm&utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36) · AI agents build software for cash rewards</sub>
